@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Multi Game</string>
+    <string name="back_button">Back to Home</string>
+    <string name="home_button">Home</string>
+    <string name="main_instructions">Select the game you want to play!</string>
+
+    // Number Guessing Game
+    <string name="app_name_num">Number Guessing Game</string>
+    <string name="instructions">Try to guess the number I\'m thinking of from 1–1000!</string>
+    <string name="guess_button">Guess</string>
+    <string name="guess_label">Enter your guess</string>
+    <string name="guess_count">Guesses: %d</string>
+    <string name="new_game_button">New Game</string>
+    <string name="enter_valid_number">Please enter a valid number.</string>
+
+    // Quiz Game
+    <string name="app_name_quiz">Quiz Game</string>
+    <string name="app_header">Quiz</string>
+    <string name="skip">SKIP</string>
+    <string name="score">%d Points</string>
+    <string name="question_count">%d of 10 questions</string>
+    <string name="game_over">Game Over!</string>
+    <string name="you_scored">"You scored: %d"</string>
+    <string name="exit">Exit</string>
+    <string name="play_again">Play Again</string>
+    <string name="correct_answer">Correct!</string>
+    <string name="wrong_answer">Wrong Answer!</string>
+
+    // Memory Matching Game
+    <string name="app_name_mem">Memory Matching Game</string>
+    <string name="movesCount">%d Moves</string>
+    <string name="pairsCount">%d/%d Pairs</string>
+    <string name="end_game">Congratulation!</string>
+    <string name="you_moves">"You move %d times until pair all of the fruits!"</string>
+</resources>
