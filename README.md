@@ -1,7 +1,7 @@
 # cn333as3
 
 ## รายละเอียด
-Multi-Game เป็นแอปรวมเกม 3 เกม จาก Assignment 1, Assignment2, และเกมใหม่ โดยจะมี requirements ดังนี้
+Multi-Game เป็นแอปรวมเกม 3 เกม จาก Assignment 1, Assignment 2, และเกมใหม่ โดยจะมี requirements ดังนี้
 - โปรแกรมจะเริ่มแสดงหน้าแรกด้วยตัวเลือกเกม 3 เกม ได้แก่
   - Number Guessing Game จาก as1 เป็นเกมทายตัวเลขในช่วง 1-1000
   - Quiz Game จาก assignment as2 เป็นเกมตอบคำถาม 10 คำถาม คำถามละ 4 ตัวเลือก
